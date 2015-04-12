@@ -36,7 +36,13 @@ or Github's Markdown syntax).
 (Aside: if you are not used to working with Github, please 
 just send me the text of your chapter; otherwise, we will grant you commit permission on that repo.)
 
-Important Dates:
+I hope you agree to writing for this book. As you can see from the above, the workload associated with
+each chapter will not be very large.
+
+Regards,
+XXXX
+
+p.s. Important Dates:
 
 		
 When          | What		
