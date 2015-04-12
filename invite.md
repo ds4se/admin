@@ -1,6 +1,6 @@
 Dear XXX,
 
-I write to invite you to contribute a (short) chapter to the upcoming Morgan-kaufmann book, 
+I write to invite you to contribute a (short) chapter to the upcoming Morgan-Kaufmann book, 
 "Perspectives on Data Science for Software Engineering" editted by myself and XXXTom Zimmermann, XXXLaurie Williams, 
 and XXXTim Menzies.
 
@@ -25,7 +25,7 @@ If it helps, we have written a sample chapter for this book at http://goo.gl/CDD
 feel compelled to follow the form of that chapter. That said, that chapter includes two features that
 might increase its usability:
 
-+ It sses a light hearted story to start the chapter;
++ It uses a light hearted story to start the chapter;
 + It offers a list of specific recommendations at the end of the chapter
 
 Our plan is to write this book using peer feedback. 
@@ -39,7 +39,7 @@ just send me the text of your chapter; otherwise, we will grant you commit permi
 I hope you agree to writing for this book. As you can see from the above, the workload associated with
 each chapter will not be very large.
 
-Regards,
+Regards,  
 XXXX
 
 p.s. Important Dates:
@@ -53,3 +53,4 @@ July 31, 2015 |     First round reviews completed and sent back to authors
 Sept 15, 2015 |        Revised chapters received, optional second peer review		
 Sept 30, 2015 |   Second round reviews completed and sent back to author		
 Oct 21, 2015  | Final chapters sent to Morgan Kaufman	
+
