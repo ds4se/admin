@@ -47,10 +47,9 @@ p.s. Important Dates:
 		
 When          | What		
 ------------- | -------------------------------		
- Apr 30, 2015 |         Invitations issued (and accepted) to write each chapter to 40+ authors		
-June 30, 2015 |     Chapters submitted. Commence peer review of chapters (by other chapter authors)	
-July 31, 2015 |     First round reviews completed and sent back to authors		
-Sept 15, 2015 |        Revised chapters received, optional second peer review		
-Sept 30, 2015 |   Second round reviews completed and sent back to author		
-Oct 21, 2015  | Final chapters sent to Morgan Kaufman	
+July 30, 2015 |     Chapters submitted. Commence peer review of chapters (by other chapter authors)	
+Sept 15, 2015 |     First round reviews completed and sent back to authors		
+Oct 15, 2015 |        Revised chapters received, optional second peer review		
+Oct 31, 2015 |   Second round reviews completed and sent back to author		
+Nov 15, 2015  | Final chapters sent to Morgan Kaufman	
 
