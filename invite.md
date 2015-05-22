@@ -2,9 +2,12 @@ Dear XXX,
 
 I write to invite you to contribute a (short) chapter to the upcoming Morgan-Kaufmann book, 
 "Perspectives on Data Science for Software Engineering" editted by myself and XXXTom Zimmermann, XXXLaurie Williams, 
-and XXXTim Menzies.
+and XXXTim Menzies. 
 
-Many recent texts offer extensive technical details on analyzing software project data. That said,  after last year's
+This is a community project and so  proceeds from the book will be donated to charity ([Save the Children fund](https://www.savethechildren.net/)).
+
+As to the contents of the book,
+many recent texts offer extensive technical details on analyzing software project data. That said,  after last year's
 Dagstuhl workshop on Software Analytics, it has become clear that many of the key insights of this diverse field
 are not readily accessible to a wider audience.
 
@@ -13,6 +16,8 @@ the core insights of our field. At our Dagstuhl seminar, we collected a long lis
 we write to ask if you would be willing to write on
 
 + XXXX
+
+(Aside: if you have additional ideas for insights/topics, we'd be happy to listen. That said,  please be aware that we are allocating many chapters to many authors so it is quite possible that your additional idea by actually be "taken" by someone else).
 
 Our intention is that this book should be broadly accessible. Accordingly, we ask that:
 
