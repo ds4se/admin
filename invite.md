@@ -4,7 +4,9 @@ I write to invite you to contribute a (short) chapter to the upcoming Morgan-Kau
 "Perspectives on Data Science for Software Engineering" editted by myself and XXXTom Zimmermann, XXXLaurie Williams, 
 and XXXTim Menzies. 
 
-This is a community project and so  proceeds from the book will be donated to charity ([Save the Children fund](https://www.savethechildren.net/)).
+This should not be an arduous task- we seek short chapters (around 4 pages, or less) that are very easy to read by a broad audience.
+
+This will a community project and so  proceeds from the book will be donated to charity ([Save the Children fund](https://www.savethechildren.net/)).
 
 As to the contents of the book,
 many recent texts offer extensive technical details on analyzing software project data. That said,  after last year's
