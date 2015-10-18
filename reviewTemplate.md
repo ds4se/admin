@@ -1,6 +1,6 @@
 # Review template
 
-
+Before filling in this review, please read our [Advice to Reviewers](how2review.md).
 
 _(If you have confidential comments about this chapter, please email them to one of the book editors._)
 
