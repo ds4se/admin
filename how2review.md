@@ -64,6 +64,7 @@ To fill in your review please copy and paste in the following template, and fill
 
 ____
 &lt;begin>
+
 _(If you have confidential comments about this chapter, please email them to one of the book editors._)
 
 <b>How would you categories the chapter: is it
@@ -108,8 +109,8 @@ _??_
 **What are the weaker aspects of the chapter that authors  SHOULD  change?**
 
 __??__
-______
 &lt;end>
+______
 
 ### Finishing your review
 
