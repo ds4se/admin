@@ -4,7 +4,7 @@
 
 _(If you have confidential comments about this chapter, please email them to one of the book editors._)
 
- 1. How would you categories the chapter: is it
+A. How would you categories the chapter: is it
 
 + SE-specific lessons (e.g. some  comments on issues that are specific to data science for software engineering)
 + Or some general lessons about data analytics
@@ -12,15 +12,15 @@ _(If you have confidential comments about this chapter, please email them to one
 
 _??_
 
- 2. On a scale of 1 to 7, nofun to fun, how fun is the chapter to read? 
+B. On a scale of 1 to 7, nofun to fun, how fun is the chapter to read? 
 
 _??_
 
- 3. What is the core insight of the chapter?
+C. What is the core insight of the chapter?
 
 _written in one line or less_
  
- 4. What is the chapter's  clear and approachable take away message?
+D. What is the chapter's  clear and approachable take away message?
 
 _??_
 
