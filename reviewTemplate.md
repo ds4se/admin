@@ -26,7 +26,7 @@ _??_
 
 F. Is the chapter the right length?
 Should anything missing be added?
-Can anything superfluous be removed (e.g. by deleting some section that does not work so well or  by using less jargon, less formulae, lees diagrams, less references; ).?
+Can anything superfluous be removed (e.g. by deleting some section that does not work so well or  by using less jargon, less formulae, lees diagrams, less references).?
 
 _??_
 
