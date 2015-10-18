@@ -63,6 +63,7 @@ To fill in your review please copy and paste in the following template, and fill
 
 
 ____
+<ul>
 &lt;begin>
 
 _(If you have confidential comments about this chapter, please email them to one of the book editors._)
@@ -102,7 +103,7 @@ _??_
 
 _??_
 
-**What are the best points of the chapter that the authors should  NOT _ change?**
+**What are the best points of the chapter that the authors should  NOT  change?**
 
 _??_
 
@@ -110,6 +111,7 @@ _??_
 
 __??__
 &lt;end>
+</ul>
 ______
 
 ### Finishing your review
