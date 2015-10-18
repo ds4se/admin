@@ -8,7 +8,7 @@ _(If you have confidential comments about this chapter, please email them to one
 
 + SE-specific lessons (e.g. some  comments on issues that are specific to data science for software engineering)
 + Or some general lessons about data analytics
-+ or Other (specify)  </b>
++ or Other (please specify)  </b>
 
 _??_
 
@@ -28,7 +28,9 @@ _??_
 
 _??_
 
-**6. Is the chapter the write length? Can anything superfluous be removed (e.g. by deleting some section that does not work so well or  by using less jargon, less formulae, lees diagrams, less references; )**
+**6. Is the chapter the right length?
+Should anything missing be added?
+Can anything superfluous be removed (e.g. by deleting some section that does not work so well or  by using less jargon, less formulae, lees diagrams, less references; ).? **
 
 _??_
 
