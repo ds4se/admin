@@ -1,14 +1,17 @@
 
 # Reviewer instructions
 
-## Improtant dates
+## Important dates
 
 Unless you've made other arrangements with the editors, reviews are due Nov 23.
 
 ## BACKGROUND
 
 
-For this book, we are experimenting with Github as a reviewing tool.  If you have problems using Github, see below (note [1]).
+For this book, we are experimenting with Github as a reviewing tool.
+
+If you have problems using Github, then don’t use it.
+Just email your review to your block editor and they will paste it in for you. 
 
 IMPORTANT NOTE: In this tool, all reviewers can see all papers and all authors can see their reviewers. So in this review process, **politeness matters**. 
 
@@ -30,11 +33,9 @@ We did reviewer assignment randomly and manually so we need to check for COI iss
 
 **Notes:**
 
-1. If you have trouble with Github, don’t use it. Just email your review to your block editor and they will paste it in for you. 
+1. If you have COI issues, contact your block manager.
 
-2. If you have COI issues, contact your block manager.
-
-3.  If you want to change your review assignment, please contact your block manager (but try not to swap to another block).
+2.  If you want to change your review assignment, please contact your block manager (but try not to swap to another block).
 
 ## How To Review
 
@@ -114,8 +115,8 @@ ______
 
 Once your review is completed, relabel the issue. 
 
-+ If this is the first review, relabel it to 2.reviewTwo. 
-+ It this is the second review, rebel it to 3.EditorsComment
++ If this is the first review, relabel it to **2.reviewTwo**
++ It this is the second review, rebel it to **3.EditorsComment**
 
 To rebel issues, click on the Labels menu (written in bold) and select from the following pop-up
 
