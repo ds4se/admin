@@ -4,11 +4,7 @@
 
 _(If you have confidential comments about this chapter, please email them to one of the book editors._)
 
-A. How would you categories the chapter: is it
-
-+ SE-specific lessons (e.g. some  comments on issues that are specific to data science for software engineering)
-+ Or some general lessons about data analytics
-+ or Other (please specify)  
+A. How would you categories the chapter: is it (1) a SE-specific lessons (e.g. some  comments on issues that are specific to data science for software engineering) or (2) some general lessons about data analytics or (3)  Other (please specify)
 
 _??_
 
@@ -24,24 +20,24 @@ D. What is the chapter's  clear and approachable take away message?
 
 _??_
 
- 5. Is the chapters   written for a generalist audience (no excessive use of technical terminology) with a minimum of diagrams and references?
+E. Is the chapters   written for a generalist audience (no excessive use of technical terminology) with a minimum of diagrams and references?
 
 _??_
 
- 6. Is the chapter the right length?
+F. Is the chapter the right length?
 Should anything missing be added?
 Can anything superfluous be removed (e.g. by deleting some section that does not work so well or  by using less jargon, less formulae, lees diagrams, less references; ).?
 
 _??_
 
-7. If the chapter title a mantra; i.e. . some slogan reflecting best practice for data science for SE? If not, suggest a better title.
+G. If the chapter title a mantra; i.e. . some slogan reflecting best practice for data science for SE? If not, suggest a better title.
 
 _??_
 
- 8. What are the best points of the chapter that the authors should  NOT  change?
+H. What are the best points of the chapter that the authors should  NOT  change?
 
 _??_
 
- 9. What are the weaker aspects of the chapter that authors  SHOULD  change?
+I. What are the weaker aspects of the chapter that authors  SHOULD  change?
 
 __??__
