@@ -6,9 +6,9 @@ _(If you have confidential comments about this chapter, please email them to one
 
 <b>1. How would you categories the chapter: is it
 
-1. SE-specific lessons (e.g. some  comments on issues that are specific to data science for software engineering)
-2. Some general lessons about data analytics
-3. Other (specify)  </b>
++ SE-specific lessons (e.g. some  comments on issues that are specific to data science for software engineering)
++ Or some general lessons about data analytics
++ or Other (specify)  </b>
 
 _??_
 
