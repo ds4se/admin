@@ -53,10 +53,10 @@ issues. To start a new review, go to the comments on
 that issue and press the new issue button, top
 right.
 
-![](newIssue.ong)
+![](newIssue.png)
 
 
-### REview template
+### Review template
 
 To fill in your review please copy and paste in the following template, and fill in the “??” slots.
 
@@ -107,7 +107,7 @@ _??_
 **What are the weaker aspects of the chapter that authors  SHOULD  change?**
 
 __??__
-
+______
 &lt;end>
 
 ### Finishing your review
