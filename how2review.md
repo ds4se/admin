@@ -26,12 +26,19 @@ So, short hyper-critical rejections should *not* be written.
 IMPORTANT NOTE: In this tool, all reviewers can see all papers and all authors can see their reviewers. So in this review process, **politeness matters**. 
 
 
-Instead, as part of your review, you need to offer authors a checklist of things to change in order to enhance the message of their chapter. Your checklist should be clear and realistic (so massive new experimentation or new data collection is not a useful suggestion).
+Instead, as part of your review, you need to offer
+authors a checklist of things to change in order to
+enhance the message of their chapter. Your checklist
+should be clear and realistic (so massive new
+experimentation or new data collection is not a
+useful suggestion).
 
-That said, once you have offered authors your checklist, if you feel that that a chapter is fatally flawed, please say so in the private comments to the review committee. As editors, we will seriously consider the issues you raise (at, possibly, reject that chapter).
-
-
-
+That said, once you have offered authors your
+checklist, if you feel that that a chapter is
+fatally flawed, please say so in the private
+comments to the review committee. As editors, we
+will seriously consider the issues you raise (at,
+possibly, reject that chapter).
 
 
 ## BEFORE YOU START
@@ -77,11 +84,5 @@ To fill in your review please copy and paste and fill in the in the [review temp
 and fill in the “??” slots.
 
 
-Once your review is completed, relabel the issue. 
-
-+ If this is the first review, relabel it to **2.reviewTwo**
-+ It this is the second review, rebel it to **3.EditorsComment**
-
-To rebel issues, click on the Labels menu (written in bold) and select from the following pop-up
-
-![](newLabel.png)
+Once your review is completed, got to [https://goo.gl/WLNUWs](https://goo.gl/WLNUWs) and mark that your review is done
+(use column D and F).
