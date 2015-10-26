@@ -64,8 +64,6 @@ We did reviewer assignment randomly and manually so we need to check for COI iss
 
 Go to [https://github.com/ds4se/chapters/issues](https://github.com/ds4se/chapters/issues)
 
-![](issues.png)
-
 Find the issue report associated with your assigned
 papers; e.g.  natalia juristo’s paper on
 reproducibility is issue #92
