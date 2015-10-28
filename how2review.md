@@ -48,9 +48,9 @@ please see [https://goo.gl/WLNUWs](https://goo.gl/WLNUWs)
 
 Each block is managed by one of Laurie, Tim, or Tom. If you have any issues with the following instructions, please talk to your block manager (one of Tim, Tom or Laurie). Our emails are:
 
-- tzimmer@microsoft.com <tzimmer@microsoft.com>, 
+- Tom Zimmermann <tzimmer@microsoft.com>, 
 - Laurie Williams <williams@csc.ncsu.edu>,
-- tim menzies <tim.menzies@csc.ncsu.edu>
+- Tim Menzies <tim.menzies@csc.ncsu.edu>
 
 We did reviewer assignment randomly and manually so we need to check for COI issues. Please check your assignments (looking for COI). 
 
