@@ -52,11 +52,11 @@ Each block is managed by one of Laurie, Tim, or Tom. If you have any issues with
 - Laurie Williams <williams@csc.ncsu.edu>,
 - Tim Menzies <tim.menzies@csc.ncsu.edu>
 
-We did reviewer assignment randomly and manually so we need to check for COI issues. Please check your assignments (looking for COI). 
+We did reviewer assignment randomly and manually so please check your assignments. 
 
 **Notes:**
 
-1. If you have COI issues, contact your block manager.
+1. If you have any issues, contact your block manager.
 
 2.  If you want to change your review assignment, please contact your block manager (but try not to swap to another block).
 
