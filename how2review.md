@@ -3,7 +3,7 @@
 
 ## Important dates
 
-Unless you've made other arrangements with the editors, reviews are due December 1.
+Unless you've made other arrangements with the editors, reviews are due **December 1**.
 
 ## BACKGROUND
 
