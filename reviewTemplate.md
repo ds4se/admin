@@ -4,35 +4,35 @@ Before filling in this review, please read our [Advice to Reviewers](how2review.
 
 _(If you have confidential comments about this chapter, please email them to one of the book editors._)
 
-Title of chapter
+1. Title of chapter
 
 _title_
 
-URL to the chapter
+2. URL to the chapter
 
 _the markdown file. e.g. https://github.com/ds4se/chapters/blob/master/zimmermann/card-sorting.md _
 
-A. What is the chapter's  clear and approachable take away message?
+3. What is the chapter's  clear and approachable take away message?
 
 _written in one line or less_
 
 
-B. Is the chapters written for a generalist audience (no excessive use of technical terminology) with a minimum of diagrams and references?
+4. Is the chapters written for a generalist audience (no excessive use of technical terminology) with a minimum of diagrams and references?
 How can it be made more accessible to generalist?
 
 _??_
 
-C. Is the chapter the right length?
+5. Is the chapter the right length?
 Should anything missing be added?
 Can anything superfluous be removed (e.g. by deleting some section that does not work so well or  by using less jargon, less formulae, lees diagrams, less references).?
 What are the aspects of the chapter that authors  SHOULD  change?
 
 _??_
 
-D. We encouraged (but did not require) the chapter title to be a mantra or something cute/catchy, i.e., some slogan reflecting best practice for data science for SE?  If you have suggestion for a better title, please put them here.
+6. We encouraged (but did not require) the chapter title to be a mantra or something cute/catchy, i.e., some slogan reflecting best practice for data science for SE?  If you have suggestion for a better title, please put them here.
 
 _??_
 
-E. What are the best points of the chapter that the authors should NOT change?
+7. What are the best points of the chapter that the authors should NOT change?
 
 _??_
