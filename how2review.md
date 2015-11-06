@@ -65,7 +65,7 @@ Enter your review as a new comment on that issues. To start a new review, go to 
 
 
 
-To fill in your review please copy and paste and fill in the in the [review template](reviewTemplate.md)
+To fill in your review please copy and paste and fill in the in the [review template](https://raw.githubusercontent.com/ds4se/admin/master/reviewTemplate.md)
 and fill in the “??” slots.
 
 
