@@ -4,6 +4,13 @@ Before filling in this review, please read our [Advice to Reviewers](how2review.
 
 _(If you have confidential comments about this chapter, please email them to one of the book editors._)
 
+Title of chapter
+
+_title_
+
+URL to the chapter
+
+_the markdown file. e.g. https://github.com/ds4se/chapters/blob/master/zimmermann/card-sorting.md _
 
 A. What is the chapter's  clear and approachable take away message?
 
