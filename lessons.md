@@ -1,4 +1,4 @@
-# How to use Githun for "journal" reviews
+# How to use Github for "journal" reviews
 
 Under the convention that authors known the names of their reviewers, then...
 
