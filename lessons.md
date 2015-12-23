@@ -1,5 +1,8 @@
 # How to use Github for "journal" reviews
 
+_the following assumes that 3 or 4 shell scripts auto-creating issues etc is enough to tame Github for writing and reviewing papers._
+
+
 Under the convention that authors known the names of their reviewers, then...
 
 ## Need some scripts to autogen some stuff
