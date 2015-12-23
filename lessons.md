@@ -29,6 +29,12 @@ when "accepting" a paper, version N, for review, auto-create
     - with h1 title
     - with h2 url 
         - with URL to lastname/thatPaperTitleVN
+    - with h2 entries for the review template
+    - that ends with a list of 
+        - "must do" (if not done, cannot accept), 
+        - "should do" (arguably, improve the paper), 
+        - "might do" (optinal suggestions)
+        - editorial changes (typos)
 - a file in that directory called thatPaperTileHistory.md
     - with h1 title
     - with h2 history
